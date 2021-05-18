@@ -1,0 +1,6 @@
+non fastforward error
+git pull --rebase origin master
+git add .
+git --rebase continue
+
+git push origin master
